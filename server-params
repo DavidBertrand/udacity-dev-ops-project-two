@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Udagram"
+    },
+    {
+        "ParameterKey": "KeyPairName",
+        "ParameterValue": "udacity"
+    },
+     {
+        "ParameterKey": "WebServerInstanceType",
+        "ParameterValue": "t2.medium"
+    },
+    {
+        "ParameterKey": "RemoteAccessCIDR",
+        "ParameterValue": "84.17.40.110/32"
+    },
+    {
+        "ParameterKey": "NumWebHosts",
+        "ParameterValue": "4"
+    }
+]
